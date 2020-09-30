@@ -10,5 +10,6 @@ Looking for first contributions? Just fork this repository add your name to this
 - Josue Cedeno
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - Nikhil Agarwal
--[Jenna Toff](http://github.com/larkceresin)
+- [Jenna Toff](http://github.com/larkceresin)
+- **Greg Curl**(http://github.com/gacurl)
 
