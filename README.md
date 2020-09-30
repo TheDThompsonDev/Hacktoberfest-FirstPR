@@ -34,5 +34,5 @@ Looking for first contributions? Just fork this repository add your name to this
 - [Yusuf Kehinde Hussein](https://github.com/CodingMage)
 - [Aryan Kashyap](https://github.com/iaryankashyap)
 - [Vivek Singh](https://github.com/vivmost)
-
+- [Syazaril Asyraf](https://github.com/wmsa-codes)
 
