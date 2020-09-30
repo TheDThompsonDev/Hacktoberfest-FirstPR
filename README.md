@@ -11,6 +11,7 @@ Looking for first contributions? Just fork this repository add your name to this
 - Josue Cedeno
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - Nikhil Agarwal
+- [Akhil Chaudhary](https://akhilchaudhary.in/)
 - [Jenna Toff](http://github.com/larkceresin)
 - [Greg Curl](http://github.com/gacurl)
 - [Prasanta Kumar Biswas](https://github.com/prasantakumarbiswas)
@@ -34,3 +35,5 @@ Looking for first contributions? Just fork this repository add your name to this
 - [Yusuf Kehinde Hussein](https://github.com/CodingMage)
 - [Aryan Kashyap](https://github.com/iaryankashyap)
 - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
+- [Vivek Singh](https://github.com/vivmost)
+- [Syazaril Asyraf](https://github.com/wmsa-codes)
