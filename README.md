@@ -27,3 +27,6 @@ Looking for first contributions? Just fork this repository add your name to this
 - [Amanpreet Singh](https://github.com/amanpreet-dev)
 - [Matheus Filgueiras](https://github.com/mpfdev)
 - [Yusuf Kehinde Hussein](https://github.com/CodingMage)
+- [Manas Srivastava](https://github.com/manas1072)
+- [Yusuf Kehinde Hussein](https://github.com/CodingMage)
+
