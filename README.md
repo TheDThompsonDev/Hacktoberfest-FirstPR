@@ -11,4 +11,6 @@ Looking for first contributions? Just fork this repository add your name to this
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - Nikhil Agarwal
 - [Jenna Toff](http://github.com/larkceresin)
+- [Greg Curl](http://github.com/gacurl)
 - [Prasanta Kumar Biswas](https://github.com/prasantakumarbiswas)
+
