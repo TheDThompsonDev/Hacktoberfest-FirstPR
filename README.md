@@ -16,4 +16,8 @@ Looking for first contributions? Just fork this repository add your name to this
 - [Adetayo Akinsanya](https://github.com/unkletayo)
 - [Abisoye Alli-Balogun](https://github.com/AbisoyeAlli)
 - [Sashank Rampalli](https://github.com/Sashankr)
+- [Michelle Racho](https://github.com/michelleracho)
+- [Amanpreet Singh](https://github.com/amanpreet-dev)
+- [Matheus Filgueiras](https://github.com/mpfdev)
+- [Yusuf Kehinde Hussein](https://github.com/CodingMage)
 
