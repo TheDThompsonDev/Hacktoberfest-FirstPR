@@ -9,3 +9,5 @@ Looking for first contributions? Just fork this repository add your name to this
 
 - Josue Cedeno
 - [Eddie Jaoude](https://github.com/eddiejaoude)
+- Nikhil Agarwal
+
