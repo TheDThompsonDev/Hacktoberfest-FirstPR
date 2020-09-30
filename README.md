@@ -6,4 +6,6 @@ Have you signed up to join Hacktoberfest? If not, go here first! https://hacktob
 Looking for first contributions? Just fork this repository add your name to this readme and create a pull request. This is so you can get familiar with the process!
 
 # Add Me
-Josue Cedeno
+
+- Josue Cedeno
+- [Eddie Jaoude](https://github.com/eddiejaoude)
