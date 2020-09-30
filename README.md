@@ -12,3 +12,4 @@ Looking for first contributions? Just fork this repository add your name to this
 - Nikhil Agarwal
 - [Jenna Toff](http://github.com/larkceresin)
 - [Prasanta Kumar Biswas](https://github.com/prasantakumarbiswas)
+- [Abisoye Alli-Balogun](https://github.com/AbisoyeAlli)
