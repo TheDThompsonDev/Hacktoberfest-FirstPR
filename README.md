@@ -16,6 +16,7 @@ Looking for first contributions? Just fork this repository add your name to this
 - [Prasanta Kumar Biswas](https://github.com/prasantakumarbiswas)
 - [Adetayo Akinsanya](https://github.com/unkletayo)
 - [Abisoye Alli-Balogun](https://github.com/AbisoyeAlli)
+- [Ayodele Joshua Boluwaji](https://github.com/AyodeleJoshua)
 - [Ansh Dhingra](https://github.com/anshdhinhgra47)
 - [Shrinivas Joshi](https://github.com/Shrinijoshi)
 - [Daniel Ryan Desiatco](https://github.com/desiatcodaniel)
