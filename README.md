@@ -37,3 +37,4 @@ Looking for first contributions? Just fork this repository add your name to this
 - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
 - [Vivek Singh](https://github.com/vivmost)
 - [Syazaril Asyraf](https://github.com/wmsa-codes)
+- [Anish Ghimire](https://github.com/anishghimire603)
