@@ -13,6 +13,7 @@ Looking for first contributions? Just fork this repository add your name to this
 - Nikhil Agarwal
 - [Akhil Chaudhary](https://akhilchaudhary.in/)
 - [Jenna Toff](http://github.com/larkceresin)
+- [Bineet Naidu](http://github.com/bineetNaidu)
 - [Greg Curl](http://github.com/gacurl)
 - [Prasanta Kumar Biswas](https://github.com/prasantakumarbiswas)
 - [Adetayo Akinsanya](https://github.com/unkletayo)
