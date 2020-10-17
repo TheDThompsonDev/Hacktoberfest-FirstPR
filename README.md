@@ -44,3 +44,4 @@ Looking for first contributions? Just fork this repository add your name to this
 - [Chimaobi Prince](https://github.com/royadeveloper01)
 - [Tejan Singh](https://github.com/tejan-singh)
 - [Harsha](https://github.com/Harsha-Ambati)
+- [Syed](https://github.com/Roeticvampire)
